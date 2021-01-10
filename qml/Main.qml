@@ -3,12 +3,12 @@ import Ubuntu.Components 1.3
 import Ubuntu.Components.Popups 1.3
 import Qt.labs.settings 1.0
 
-import "qml/ui"
+import "ui"
 
 MainView {
     id: mainView
     objectName: "mainView"
-    applicationName: "translate.turan-mahmudov-l"
+    applicationName: "translate.eder"
 
     automaticOrientation: true
 

@@ -46,7 +46,7 @@ Page {
             height: units.gu(16)
             radius: "medium"
             source: Image {
-                source: Qt.resolvedUrl("../../Translate.png")
+                source: Qt.resolvedUrl("../../assets/Translate.png")
             }
         }
 

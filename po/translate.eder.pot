@@ -1,0 +1,291 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the translate.eder package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: translate.eder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-10 12:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/Main.qml:40 ../qml/ui/TranslatePage.qml:12
+#: ../qml/ui/TranslateTest.qml:9 Translate.desktop.in.h:1
+msgid "Translate"
+msgstr ""
+
+#: ../qml/Main.qml:47 ../qml/ui/AboutPage.qml:8
+msgid "About"
+msgstr ""
+
+#: ../qml/Main.qml:109
+msgid "Donate me"
+msgstr ""
+
+#: ../qml/Main.qml:110
+msgid "Donate to support me continue developing for Ubuntu."
+msgstr ""
+
+#: ../qml/Main.qml:116
+msgid "Ignore"
+msgstr ""
+
+#: ../qml/Main.qml:122 ../qml/ui/AboutPage.qml:17
+msgid "Donate"
+msgstr ""
+
+#: ../qml/ui/AboutPage.qml:67
+msgid "Translate Application"
+msgstr ""
+
+#: ../qml/ui/AboutPage.qml:95
+msgid "Released under the terms of the GNU GPL v3"
+msgstr ""
+
+#: ../qml/ui/AboutPage.qml:104
+msgid "Source code available on %1"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:9
+msgid "Translate from"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:9
+msgid "Translate to"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:13
+msgid "Close"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:30
+msgid "Albanian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:31
+msgid "Arabic"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:32
+msgid "Armenian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:33
+msgid "Azerbaijan"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:34
+msgid "Belarusian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:35
+msgid "Bosnian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:36
+msgid "Bulgarian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:37
+msgid "Catalan"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:38
+msgid "Chinese"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:39
+msgid "Croatian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:40
+msgid "Czech"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:41
+msgid "Danish"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:42
+msgid "Dutch"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:43
+msgid "English"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:44
+msgid "Estonian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:45
+msgid "Finnish"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:46
+msgid "French"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:47
+msgid "Galician"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:48
+msgid "Georgian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:49
+msgid "German"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:50
+msgid "Greek"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:51
+msgid "Hebrew"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:52
+msgid "Hindi"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:53
+msgid "Hungarian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:54
+msgid "Icelandic"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:55
+msgid "Indonesian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:56
+msgid "Italian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:57
+msgid "Japanese"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:58
+msgid "Korean"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:59
+msgid "Kurdish"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:60
+msgid "Latvian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:61
+msgid "Lithuanian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:62
+msgid "Macedonian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:63
+msgid "Malay"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:64
+msgid "Maltese"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:65
+msgid "Mandarin"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:66
+msgid "Norwegian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:67
+msgid "Persian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:68
+msgid "Polish"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:69
+msgid "Portuguese"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:70
+msgid "Romanian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:71
+msgid "Russian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:72
+msgid "Serbian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:73
+msgid "Slovak"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:74
+msgid "Slovenian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:75
+msgid "Spanish"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:76
+msgid "Swedish"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:77
+msgid "Turkish"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:78
+msgid "Ukranian"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:79
+msgid "Vietnamese"
+msgstr ""
+
+#: ../qml/ui/LanguageChooserPage.qml:80
+msgid "Welsh"
+msgstr ""
+
+#: ../qml/ui/TranslatePage.qml:96 ../qml/ui/TranslateTest.qml:190
+msgid "Translations"
+msgstr ""
+
+#: ../qml/ui/TranslatePage.qml:197
+msgid "No results found"
+msgstr ""
+
+#: ../qml/ui/TranslatePage.qml:197
+msgid "Search anything"
+msgstr ""
+
+#: ../qml/ui/TranslateTest.qml:18
+msgid "Change languages"
+msgstr ""
+
+#: ../qml/ui/TranslateTest.qml:174
+msgid "Tap to enter text"
+msgstr ""
